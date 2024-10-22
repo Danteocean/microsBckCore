@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iq0CSIQSdH4snGf3GM2u1XttbpK2oFhoaWcHrdMi9PY=",
+  "Source": "Microservice.Parametricas",
+  "BasePath": "_content/Microservice.Parametricas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

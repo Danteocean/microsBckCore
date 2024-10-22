@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  microservice.interventoria:
+    image: ${DOCKER_REGISTRY-}microserviceinterventoria
+    build:
+      context: .
+      dockerfile: Microservice.Interventoria\Dockerfile
+networks:
+  default:
+    external:
+        name: networkservicenet

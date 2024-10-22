@@ -1,0 +1,48 @@
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\bin\Debug\net6.0\Microservice.domain.deps.json
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\bin\Debug\net6.0\Microservice.domain.dll
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\bin\Debug\net6.0\Microservice.domain.pdb
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.AssemblyReference.cache
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfoInputs.cache
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfo.cs
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.CoreCompileInputs.cache
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.dll
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\refint\Microservice.domain.dll
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.pdb
+C:\Users\EdFer\Documents\PosgradoJaveriana\Ingenieria de Software\App\Interventorias\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\ref\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\bin\Debug\net6.0\Microservice.domain.deps.json
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\bin\Debug\net6.0\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\bin\Debug\net6.0\Microservice.domain.pdb
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.AssemblyReference.cache
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfoInputs.cache
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfo.cs
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\refint\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\Microservice.domain.pdb
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Interventoria\Microservice.domain\obj\Debug\net6.0\ref\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\bin\Debug\net6.0\Microservice.domain.deps.json
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\bin\Debug\net6.0\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\bin\Debug\net6.0\Microservice.domain.pdb
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.AssemblyReference.cache
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfoInputs.cache
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfo.cs
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\refint\Microservice.domain.dll
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\Microservice.domain.pdb
+C:\PROYECTOS\swJaveriana\InterventoriasOnline\Microservice.Seguridad\Microservice.domain\obj\Debug\net6.0\ref\Microservice.domain.dll
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\bin\Debug\net6.0\Microservice.domain.deps.json
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\bin\Debug\net6.0\Microservice.domain.dll
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\bin\Debug\net6.0\Microservice.domain.pdb
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.AssemblyReference.cache
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfoInputs.cache
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.AssemblyInfo.cs
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.dll
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\refint\Microservice.domain.dll
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\Microservice.domain.pdb
+C:\PROYECTOS\InterventoriasOnline\Microservice.Usuarios\Microservice.domain\obj\Debug\net6.0\ref\Microservice.domain.dll
